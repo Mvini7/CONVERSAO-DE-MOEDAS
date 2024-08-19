@@ -48,6 +48,7 @@ input, button {
     background-color: #ddd;
     border-radius: 4px;
 }
+
 button {
     background-color: #ffc402ef;
     color: white;
@@ -56,13 +57,15 @@ button {
     cursor: pointer;
     margin-top: 10px;
 }
+
 button:hover {
     background-color: #ffc402ef;
 }
+
 .resultado {
     margin-top: 20px;
     padding: 10px;
-    background-color: #f8f9fa;
-    border: 1px solid #ddd;
+    background-color: transparent;
+    border: transparent;
     border-radius: 4px;
 }
